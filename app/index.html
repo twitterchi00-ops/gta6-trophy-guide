@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI (PS5)</title>
+<meta name="description" content="A complete, checkable guide to all 55 GTA VI PlayStation trophies: what each one asks, how to earn it, the order to do them in, and which four are provisionally missable.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Leonida</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="sub">All 55 trophies — what each one asks, how to earn it, and the order to do them in. Tick them off as you play; your progress stays in this browser.</p>
+    <div class="progress" id="progress" aria-live="polite">
+      <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+      <p class="progress-text" id="progressText">0 / 55 earned</p>
+      <p class="progress-grades" id="progressGrades"></p>
+    </div>
+    <nav class="tabs" aria-label="Views">
+      <a href="#/checklist" data-view="checklist">Checklist</a>
+      <a href="#/roadmap" data-view="roadmap">Roadmap</a>
+      <a href="#/about" data-view="about">About &amp; sources</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="view-checklist" class="view">
+    <div class="controls">
+      <label class="search">Search
+        <input id="q" type="search" placeholder="Trophy name or description…" autocomplete="off">
+      </label>
+      <label>Grade
+        <select id="grade">
+          <option value="">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label>Kind
+        <select id="kind">
+          <option value="">All kinds</option>
+          <option value="story">Story</option>
+          <option value="side">Side</option>
+          <option value="activities">Activities</option>
+          <option value="collectibles">Collectibles</option>
+          <option value="exploration">Exploration</option>
+          <option value="combat">Combat</option>
+          <option value="economy">Economy</option>
+          <option value="odd">Odd &amp; secret</option>
+          <option value="platinum">Platinum</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="missableOnly"> Missable only</label>
+      <label class="check"><input type="checkbox" id="earnedOnly"> Earned only</label>
+      <label class="check"><input type="checkbox" id="hideEarned"> Hide earned</label>
+      <label class="check" title="Story guides can spoil the plot. Turn this off to hide them until you ask."><input type="checkbox" id="spoilers" checked> Show story spoilers</label>
+      <button id="reset" type="button" class="btn ghost">Reset progress</button>
+    </div>
+    <p class="count" id="count"></p>
+    <ol class="list" id="list"></ol>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden>
+    <div class="missable-box" id="missableBox"></div>
+    <ol class="stages" id="stages"></ol>
+  </section>
+
+  <section id="view-about" class="view" hidden>
+    <h2>About this guide</h2>
+    <p>Every trophy name, description and grade here is the official PlayStation trophy list, matched to the bounty kit. The guides are original — written from those official descriptions. Where a description is cryptic, or a trigger is not yet confirmed in-game, the guide says so instead of inventing a step.</p>
+    <h3>The four provisional missables</h3>
+    <p>Four trophies are flagged <strong>provisional missable</strong>: they may only be possible inside a story window, so the guide says to do them the first time the chance appears. They are <a href="#/trophy/33">Hot Together</a>, <a href="#/trophy/34">Retail Therapy</a>, <a href="#/trophy/48">Actions Speak Louder</a> and <a href="#/trophy/49">Bad Luck, I Guess</a>. “Provisional” means the flag comes from the trophy descriptions, not from a confirmed in-game test — if a later test shows one is repeatable in free roam, the flag should be removed.</p>
+    <h3>Sources</h3>
+    <ul>
+      <li>PlayStation official trophy descriptions (every name, description and grade).</li>
+      <li>PSNProfiles trophy listings — for the counted challenges (shooting range, drone races, meditation spots, cards, WAiNK, areas) and the community-confirmed triggers.</li>
+      <li>In-game menus — the stats, activities, challenges, collection, vehicle, property, business and gang-activity menus, which show the counts the game itself tracks.</li>
+    </ul>
+    <h3>How progress is stored</h3>
+    <p>Ticking a trophy stores it in this browser only (<code>localStorage</code>). Nothing is uploaded anywhere. Use <em>Reset progress</em> on the Checklist to start over.</p>
+    <h3>What this guide does not do</h3>
+    <p>It does not show a map, and it does not track anything for you in-game. It is a checklist and a reading guide: the order (Roadmap), the trigger (each guide), and the warning (the missables).</p>
+  </section>
+
+  <aside class="guide" id="guide" hidden aria-label="Trophy guide"></aside>
+</main>
+
+<footer class="foot">
+  <p>Leonida Trophy Guide — an entry for the make.fun “GTA 6 trophy guide” bounty. Trophy names, descriptions and grades are PlayStation's; the guides are original. Built as a static page: it works from <code>file://</code> and from any static host.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

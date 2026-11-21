@@ -1,0 +1,1135 @@
+// Generated from app/data/trophies.json by tools/gen-data.mjs. Do not edit by hand.
+// A classic script (no modules) so the app works from file:// as well as http://.
+window.LEONIDA_TROPHIES = {
+  "game": "Grand Theft Auto VI",
+  "platform": "PS5",
+  "source_note": "Names, descriptions and grades are the official PlayStation trophy list, matched exactly to the bounty kit. Guides are original, written for this entry from those official descriptions; where a description is cryptic or a trigger is not yet confirmed in-game it is flagged provisional and the guide points at the community sources that track it.",
+  "stages": [
+    {
+      "n": 1,
+      "note": "The opening story. The first two chapters and the early story jobs — all unmissable.",
+      "title": "Opening: Chapters 1–2"
+    },
+    {
+      "n": 2,
+      "note": "Chapter 3 and its heists — all unmissable.",
+      "title": "Mid-story: Chapter 3"
+    },
+    {
+      "n": 3,
+      "note": "Chapter 4, the takedown, and the final mission — all unmissable.",
+      "title": "Late story: Chapter 4 & finale"
+    },
+    {
+      "n": 4,
+      "note": "The side strands: Andy, Kenton, Billy, Randy, Tyrone, Bret, the Stranger and Freaks strands, and the two partner jobs with Lucia — do the partner jobs the first time they are offered.",
+      "title": "Partners & strangers"
+    },
+    {
+      "n": 5,
+      "note": "The activity grind: stunts, shooting range, drone races, races, fishing, arcade, bowling, challenges, and the melee drive-bys.",
+      "title": "Activities & challenges"
+    },
+    {
+      "n": 6,
+      "note": "The map sweep: meditation spots, cards, WAiNK, vehicles, areas, garages, and Scooter Bros registrations.",
+      "title": "Collectibles & exploration"
+    },
+    {
+      "n": 7,
+      "note": "The combat and money work: gang operations, heists, vaults, trucks, and laundering and spending.",
+      "title": "Combat & economy"
+    },
+    {
+      "n": 8,
+      "note": "The odd ones, the secret thread, the two provisional-missable choices, 100%, and the platinum.",
+      "title": "Odd, secret & platinum"
+    }
+  ],
+  "total": 55,
+  "trophies": [
+    {
+      "count": null,
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "The platinum. Earn the other 54 trophies and this one pops automatically — there is nothing extra to do. Use the checklist to track the 54, and the roadmap to order them so the four provisional missables are handled inside their story windows.",
+      "id": 1,
+      "kind": "platinum",
+      "missable": false,
+      "name": "Vice Got a Price!",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 8,
+      "steps": [
+        "Earn all 54 other trophies",
+        "The platinum unlocks automatically",
+        "Check the roadmap for the missable order"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "A story trophy from the opening. Play the first chapter's story missions until the Gone Fishing trip with the crew; the trophy pops when the scene ends. It cannot be missed — it is part of the main story.",
+      "id": 2,
+      "kind": "story",
+      "missable": false,
+      "name": "Just Like Paradise",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 1,
+      "steps": [
+        "Play the opening story missions",
+        "Reach the Gone Fishing trip scene",
+        "Finish the scene — the trophy pops"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 1 of the story. Play the chapter's missions in order; the trophy pops at the chapter-complete screen. Unmissable.",
+      "id": 3,
+      "kind": "story",
+      "missable": false,
+      "name": "Paradise Lost",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 1,
+      "steps": [
+        "Play Chapter 1 missions in order",
+        "The trophy pops at the chapter-complete screen"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 2 of the story. Play the chapter's missions in order; the trophy pops at the chapter-complete screen. Unmissable.",
+      "id": 4,
+      "kind": "story",
+      "missable": false,
+      "name": "T**s Ass Drug Money",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 1,
+      "steps": [
+        "Play Chapter 2 missions in order",
+        "The trophy pops at the chapter-complete screen"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 3 of the story. Play the chapter's missions in order; the trophy pops at the chapter-complete screen. Unmissable.",
+      "id": 5,
+      "kind": "story",
+      "missable": false,
+      "name": "Vice City, Baby!",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 2,
+      "steps": [
+        "Play Chapter 3 missions in order",
+        "The trophy pops at the chapter-complete screen"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 4 of the story. Play the chapter's missions in order; the trophy pops at the chapter-complete screen. Unmissable.",
+      "id": 6,
+      "kind": "story",
+      "missable": false,
+      "name": "Top Of The World, Ma",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 3,
+      "steps": [
+        "Play Chapter 4 missions in order",
+        "The trophy pops at the chapter-complete screen"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Complete the final story mission. Play through the story to the end; the trophy pops when the last mission's closing scene finishes. Unmissable, but it is the last story trophy — everything else can still be done after the credits in free roam.",
+      "id": 7,
+      "kind": "story",
+      "missable": false,
+      "name": "You Gotta Know When to Get Off",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 3,
+      "steps": [
+        "Play the story to the end",
+        "Complete the final mission",
+        "The trophy pops at the closing scene"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "A story mission early in the game. Play the story until the Breakfast Run job appears and complete it. Unmissable.",
+      "id": 8,
+      "kind": "story",
+      "missable": false,
+      "name": "Trust",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 1,
+      "steps": [
+        "Reach the Breakfast Run job in the story",
+        "Complete it — the trophy pops on completion"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete the Cartel Heist mission in Chapter 3. Follow the story to the heist setup, then run the heist to the end. Unmissable.",
+      "id": 9,
+      "kind": "story",
+      "missable": false,
+      "name": "Break the Bank",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 2,
+      "steps": [
+        "Reach the Cartel Heist in the story",
+        "Complete the heist setup",
+        "Run the heist to the end"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete the Child's Play mission. It is a story mission in the middle of the game; play the story until it appears and finish it. Unmissable.",
+      "id": 10,
+      "kind": "story",
+      "missable": false,
+      "name": "Family Matters",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 2,
+      "steps": [
+        "Reach the Child's Play mission in the story",
+        "Complete it — the trophy pops on completion"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete the Headliners mission. It is a story mission; play until it appears and finish it. Unmissable.",
+      "id": 11,
+      "kind": "story",
+      "missable": false,
+      "name": "DWNFALL",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 2,
+      "steps": [
+        "Reach the Headliners mission in the story",
+        "Complete it — the trophy pops on completion"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Complete the VCIA Takedown mission late in the story. Play the story until the takedown appears and finish it. Unmissable.",
+      "id": 12,
+      "kind": "story",
+      "missable": false,
+      "name": "Hi-Jacked",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 3,
+      "steps": [
+        "Reach the VCIA Takedown mission in the story",
+        "Complete it — the trophy pops on completion"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete Operation Savage Glory, a late-story mission. Play the story until it appears and finish it. Unmissable.",
+      "id": 13,
+      "kind": "story",
+      "missable": false,
+      "name": "Snow Storm",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 3,
+      "steps": [
+        "Reach Operation Savage Glory in the story",
+        "Complete it — the trophy pops on completion"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Reach 100% completion. This is the long tail: finish the story, all activities, all collectibles, all challenges, and the side strands. The completion percentage is shown in the stats menu — check it there to find what is left. It is the last trophy most players earn before the platinum.",
+      "id": 14,
+      "kind": "story",
+      "missable": false,
+      "name": "A Long Road",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game stats menu"
+      ],
+      "stage": 8,
+      "steps": [
+        "Finish the story",
+        "Complete all activities, collectibles and challenges",
+        "Check the stats menu for the remaining percentage",
+        "The trophy pops at 100%"
+      ]
+    },
+    {
+      "count": 250,
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete 250 stunts. Stunts are the jumps, airtime, near-misses and trick moves the game tracks as you drive and ride. They add up naturally across the whole playthrough — drive fast, take jumps, and land cleanly. The stunt count is shown in the stats menu. If you are short at the end, replay jump spots and stunt ramps in free roam.",
+      "id": 15,
+      "kind": "activities",
+      "missable": false,
+      "name": "Cunning Stunts",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game stats menu"
+      ],
+      "stage": 5,
+      "steps": [
+        "Drive and ride — stunts track automatically",
+        "Take jumps and land cleanly for airtime",
+        "Check the stunt count in the stats menu",
+        "Mop up the remainder at jump spots in free roam"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each type of activity once. Leonida's activities include the shooting range, drone races, races, fishing, arcade games, bowling, and more. Open the activities menu (or the map's activity filter) to see the full list, then try one of each type. You do not need to win or complete them — trying each type once is enough.",
+      "id": 16,
+      "kind": "activities",
+      "missable": false,
+      "name": "Master of None",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game activities menu"
+      ],
+      "stage": 5,
+      "steps": [
+        "Open the activities list from the map or menu",
+        "Try one of each activity type",
+        "The trophy pops when every type has been tried"
+      ]
+    },
+    {
+      "count": 42,
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in all Shooting Range challenges. Go to a shooting range (marked on the map) and work through its challenge list — each range offers timed accuracy and speed drills, and the list is shown in-game at the range. You need a gold medal in every challenge, not just a pass, so replay the drills until the gold threshold is hit. This is the hardest activity trophy: steady aim, a few retries per drill, and the golds add up.",
+      "id": 17,
+      "kind": "activities",
+      "missable": false,
+      "name": "The Shootist",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 5,
+      "steps": [
+        "Find a shooting range on the map",
+        "Open its challenge list",
+        "Earn a gold medal in each challenge",
+        "Retry the timed drills until they pass gold"
+      ]
+    },
+    {
+      "count": 14,
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at every location. Drone-race spots are marked on the map once the activity is unlocked; win a race at each one. The race list is shown in the activity menu. Fly clean lines and use the boost pads — the courses are short, so a retry is cheap.",
+      "id": 18,
+      "kind": "activities",
+      "missable": false,
+      "name": "Top Fun",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 5,
+      "steps": [
+        "Unlock the drone-race activity",
+        "Find the race spots on the map",
+        "Win a race at each location",
+        "The trophy pops when every location is won"
+      ]
+    },
+    {
+      "count": 20,
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races. Enter races from the race markers on the map (street, off-road and water races all count). Each win must be a different race — repeating the same race does not count twice. If a race is hard, retry it with a better-tuned vehicle or a different route.",
+      "id": 19,
+      "kind": "activities",
+      "missable": false,
+      "name": "Earn Cash, Not Kudos",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 5,
+      "steps": [
+        "Find race markers on the map",
+        "Win a race",
+        "Win 19 more different races",
+        "The trophy pops on the twentieth different win"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. Cal is the fishing rival — his challenge appears as a fishing activity once you have fished a few times. Accept his challenge and out-fish him (heavier catch or more fish, as the challenge scores it). The fishing menu shows the challenge and your best catch.",
+      "id": 20,
+      "kind": "activities",
+      "missable": false,
+      "name": "Baited My Tackle",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 5,
+      "steps": [
+        "Fish a few times to unlock Cal's challenge",
+        "Accept his fishing challenge",
+        "Beat Cal's score",
+        "The trophy pops on the win"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete an arcade game. Visit an arcade (marked on the map), pick any game, and play it through to the end. You do not need to win — completing a game is enough.",
+      "id": 21,
+      "kind": "activities",
+      "missable": false,
+      "name": "Stick Fiddler",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 5,
+      "steps": [
+        "Find an arcade on the map",
+        "Play any arcade game",
+        "Complete it — the trophy pops"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Andy. Andy's missions appear as a side strand on the map — follow the strand's missions to the end. The strand is marked once it unlocks in the story.",
+      "id": 22,
+      "kind": "side",
+      "missable": false,
+      "name": "Road to Rehabilitation",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock Andy's strand in the story",
+        "Follow its missions on the map",
+        "Complete the final mission in the strand"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Kenton. Kenton's missions appear as a side strand on the map — follow the strand's missions to the end. The strand is marked once it unlocks in the story.",
+      "id": 23,
+      "kind": "side",
+      "missable": false,
+      "name": "This Was No Boat Accident",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock Kenton's strand in the story",
+        "Follow its missions on the map",
+        "Complete the final mission in the strand"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Billy. Billy's missions appear as a side strand on the map — follow the strand's missions to the end. The strand is marked once it unlocks in the story.",
+      "id": 24,
+      "kind": "side",
+      "missable": false,
+      "name": "The Lone Rider",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock Billy's strand in the story",
+        "Follow its missions on the map",
+        "Complete the final mission in the strand"
+      ]
+    },
+    {
+      "count": 8,
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. These are the odd side encounters marked on the map — each one is a short strand of missions. Work through all eight; the strand list is shown in the side-missions menu. None of them is tied to the story, so they can all be done in free roam after the credits.",
+      "id": 25,
+      "kind": "side",
+      "missable": false,
+      "name": "Strangers & Freaks",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game side-missions menu"
+      ],
+      "stage": 4,
+      "steps": [
+        "Find the Stranger and Freaks markers on the map",
+        "Complete each strand",
+        "Check the side-missions menu for the remaining strands",
+        "The trophy pops on the eighth"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Randy. Randy's missions appear as a side strand on the map — follow the strand's missions to the end. The strand is marked once it unlocks in the story.",
+      "id": 26,
+      "kind": "side",
+      "missable": false,
+      "name": "Supply & Demand",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock Randy's strand in the story",
+        "Follow its missions on the map",
+        "Complete the final mission in the strand"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Tyrone. Tyrone's missions appear as a side strand on the map — follow the strand's missions to the end. The strand is marked once it unlocks in the story.",
+      "id": 27,
+      "kind": "side",
+      "missable": false,
+      "name": "Spin On This!",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock Tyrone's strand in the story",
+        "Follow its missions on the map",
+        "Complete the final mission in the strand"
+      ]
+    },
+    {
+      "count": 18,
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at every spot across Leonida. Meditation spots are quiet viewpoints scattered across the state — the map shows the ones you have found, and the collection menu counts them. Visit each spot and meditate. Community guides list all 18 locations; the in-game count tells you how many are left.",
+      "id": 28,
+      "kind": "exploration",
+      "missable": false,
+      "name": "Positive Mental Attitude",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 6,
+      "steps": [
+        "Open the collection menu to see the meditation count",
+        "Visit a meditation spot and meditate",
+        "Repeat for all 18 spots",
+        "Use a community guide for the last few"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret. Bret's hunt is a side strand — follow its missions on the map. The hunt asks you to track and take a unique animal; the strand marks the hunting ground once it is available. Follow the trail and complete the hunt.",
+      "id": 29,
+      "kind": "side",
+      "missable": false,
+      "name": "Fair Game",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 4,
+      "steps": [
+        "Unlock the Bret hunt strand",
+        "Follow its missions",
+        "Hunt the unique animal",
+        "Complete the hunt"
+      ]
+    },
+    {
+      "count": 3,
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete 3 Collectible Card sets. The cards are hidden across the map in three sets — the collection menu shows which sets and cards you have. Pick them up as you explore; a community guide lists every card location for the final sweep.",
+      "id": 30,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "Don't Touch My Deck",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 6,
+      "steps": [
+        "Open the collection menu to see the card sets",
+        "Collect cards as you explore",
+        "Use a community guide for the last cards",
+        "The trophy pops when the third set is complete"
+      ]
+    },
+    {
+      "count": 100,
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "WAiNK It at 100 locations. WAiNK spots are the photo and location markers across Leonida — the collection menu counts them. Visit each one (the map shows the ones you have found). A community guide lists all 100 for the final sweep.",
+      "id": 31,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "You WAiNKer!",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 6,
+      "steps": [
+        "Open the collection menu to see the WAiNK count",
+        "Visit WAiNK locations as you travel",
+        "Use a community guide for the last few",
+        "The trophy pops at 100"
+      ]
+    },
+    {
+      "count": 50,
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 Challenges. Challenges are the tracked goals in the challenges menu — activities, combat, exploration and driving challenges all count. Open the menu to see the list, then work through 50 of them. They accumulate across the whole playthrough, so most players are well on the way by the end of the story.",
+      "id": 32,
+      "kind": "activities",
+      "missable": false,
+      "name": "One Last Thing",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game challenges menu"
+      ],
+      "stage": 5,
+      "steps": [
+        "Open the challenges menu",
+        "Complete challenges across activities, combat and exploration",
+        "The trophy pops on the fiftieth"
+      ]
+    },
+    {
+      "count": 4,
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. With your partner (Lucia) beside you, build up a 4-star wanted level, then lose the police and escape. Do it in an open area with a fast vehicle nearby — once the wanted level is lost, drive clear of the search zone until the heat is gone. Provisional missable: partner activities may only be available in story windows, so do this the first time a partner session is offered.",
+      "id": 33,
+      "kind": "side",
+      "missable": true,
+      "name": "Hot Together",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides — provisional missable"
+      ],
+      "stage": 4,
+      "steps": [
+        "Start a session with your partner",
+        "Build a 4-star Wanted Level",
+        "Lose the police",
+        "Escape the search zone — the trophy pops"
+      ]
+    },
+    {
+      "count": 3,
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. With your partner beside you, rob one shop, then immediately rob a second and a third — do not lose the wanted level between them. Plan a route with three close shops and a fast getaway vehicle. Provisional missable: partner activities may only be available in story windows.",
+      "id": 34,
+      "kind": "side",
+      "missable": true,
+      "name": "Retail Therapy",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides — provisional missable"
+      ],
+      "stage": 4,
+      "steps": [
+        "Start a session with your partner",
+        "Rob a shop",
+        "Rob a second shop immediately",
+        "Rob a third without losing the Wanted Level"
+      ]
+    },
+    {
+      "count": 100,
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles. Vehicles are added to the collection when you drive them — the vehicle menu shows which ones you have found. Drive a wide variety (cars, bikes, boats, aircraft) and the count climbs. The menu shows what is left.",
+      "id": 35,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "Whip It Good",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game vehicle menu"
+      ],
+      "stage": 6,
+      "steps": [
+        "Drive different vehicles — each new one counts",
+        "Check the vehicle menu for the count",
+        "Try cars, bikes, boats and aircraft",
+        "The trophy pops at 100"
+      ]
+    },
+    {
+      "count": 5,
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-mo aiming mode — activate it during a firefight with at least five enemies nearby, and take down five of them before the focus ends. Pick a crowded encounter (a gang operation or a police chase) and line the shots up while time is slowed. If the focus runs out, retry the encounter.",
+      "id": 36,
+      "kind": "combat",
+      "missable": false,
+      "name": "Gunslinger",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 7,
+      "steps": [
+        "Find an encounter with 5 or more enemies",
+        "Activate Combat Focus",
+        "Take down 5 enemies in that single use",
+        "The trophy pops on the fifth"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Make an unscheduled departure at VCIA. At Vice City International Airport, leave by an unscheduled route — take an aircraft (or a vehicle) out of the airport without going through the normal departure. The exact trigger is the airport escape; community guides name the spot and the vehicle once the game is out.",
+      "id": 37,
+      "kind": "odd",
+      "missable": false,
+      "name": "Catch Me If You Can",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides"
+      ],
+      "stage": 7,
+      "steps": [
+        "Go to VCIA (Vice City International Airport)",
+        "Find the unscheduled departure route",
+        "Leave the airport by it — the trophy pops"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Disrupt the Rhinos gang. The description is a joke, but the trigger is the Rhinos gang — attack their operations (ambushes, stash raids, turf hits) as marked on the map until the chain is complete. The gang-activity menu shows your progress. Community guides confirm the exact count once the game is out.",
+      "id": 38,
+      "kind": "combat",
+      "missable": false,
+      "name": "Challenging Tank",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game gang-activity menu"
+      ],
+      "stage": 7,
+      "steps": [
+        "Find Rhinos operations on the map",
+        "Disrupt them — ambushes, stash raids, turf hits",
+        "Complete the chain",
+        "Check the gang-activity menu for progress"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. This is a stealth heist — plan the approach, avoid the cameras and guards, and take the goods without raising the alarm. If you are spotted, the attempt fails; retry it quietly. The heist is a story and side job — follow its setup missions first.",
+      "id": 39,
+      "kind": "combat",
+      "missable": false,
+      "name": "Sneakthief",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 7,
+      "steps": [
+        "Reach the jewelry store heist job",
+        "Complete its setup missions",
+        "Rob the store without being detected"
+      ]
+    },
+    {
+      "count": 5,
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob 5 Bank Vaults and escape. Bank vaults are robbed as part of heist jobs — the job list shows which banks are available. Rob five vaults and escape after each one; each is a short heist sequence.",
+      "id": 40,
+      "kind": "combat",
+      "missable": false,
+      "name": "Maximum Withdrawal",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 7,
+      "steps": [
+        "Find bank-vault heist jobs",
+        "Rob a vault and escape",
+        "Repeat for 5 vaults"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape. Armored trucks drive the roads of Leonida — intercept one (ram it, block it, or follow it to a stop), take the cash, and escape. The robbery activity marks truck routes once unlocked.",
+      "id": 41,
+      "kind": "combat",
+      "missable": false,
+      "name": "A Classic Blitz Play",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 7,
+      "steps": [
+        "Find an armored truck on the road",
+        "Intercept and stop it",
+        "Take the cash and escape — the trophy pops"
+      ]
+    },
+    {
+      "count": 52,
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida. Areas are counted as you travel through them — the map shows which areas you have visited. Drive, fly and sail across the whole map; the area count is shown in the stats menu. A community guide lists all 52 areas for the final sweep.",
+      "id": 42,
+      "kind": "exploration",
+      "missable": false,
+      "name": "The Goodtime State",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 6,
+      "steps": [
+        "Travel across Leonida — each new area counts",
+        "Check the area count in the stats menu",
+        "Use a community guide for the last areas",
+        "The trophy pops at 52"
+      ]
+    },
+    {
+      "count": 9,
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob an Illegal Operation belonging to each gang. Each of the nine gangs runs illegal operations — the gang-activity menu lists them. Rob one operation per gang until all nine are done.",
+      "id": 43,
+      "kind": "combat",
+      "missable": false,
+      "name": "Pest Control",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game gang-activity menu"
+      ],
+      "stage": 7,
+      "steps": [
+        "Open the gang-activity menu",
+        "Rob one Illegal Operation per gang",
+        "The trophy pops on the ninth gang"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Go to a bar on Ocean Beach, sit somewhere with a view, and order a cocktail from the menu. It is a small flavour moment — any bar on the beach works.",
+      "id": 44,
+      "kind": "odd",
+      "missable": false,
+      "name": "In The Beginning…",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 8,
+      "steps": [
+        "Go to Ocean Beach",
+        "Enter a bar with a view",
+        "Order a cocktail from the menu"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in classic style. During the showroom sequence, drive out through the showroom itself — smash through the glass and the displays on your way out. The activity marker appears on the map once it unlocks.",
+      "id": 45,
+      "kind": "combat",
+      "missable": false,
+      "name": "Capital Offense",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides"
+      ],
+      "stage": 7,
+      "steps": [
+        "Find the showroom activity marker",
+        "Drive in and smash your way out",
+        "The trophy pops on the escape"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. Go bowling at the Kolt & Associates alley (marked on the map), play a full game and follow through to the end. A completed game at this alley pops the trophy.",
+      "id": 46,
+      "kind": "activities",
+      "missable": false,
+      "name": "Let’s Go Bowling",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 5,
+      "steps": [
+        "Find the Kolt & Associates bowling alley",
+        "Play a full game",
+        "Follow through to the end — the trophy pops"
+      ]
+    },
+    {
+      "count": null,
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "Set a personal best with a partner. The name says personal best and the description points at a partnership — the trigger is a best performance in a partnered activity (a race, a challenge, or a co-op moment with Lucia). The description is cryptic, so the exact activity is per community guides; the activity menu shows your bests, and beating one with your partner beside you is the way to test it.",
+      "id": 47,
+      "kind": "odd",
+      "missable": false,
+      "name": "Personal Best",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides"
+      ],
+      "stage": 8,
+      "steps": [
+        "Pick an activity you have played with your partner",
+        "Beat your own best score or time",
+        "Check community guides for the exact trigger"
+      ]
+    },
+    {
+      "count": 500,
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "Make choices — for better or worse. Choices are the dialogue and activity decisions you make across the whole game — story conversations, side-strand options, and activity choices all count, and the total is tracked (500 in the kit data). They accumulate naturally, but the count is large, so pick the alternative option whenever one is offered. Provisional missable: some choices may only appear in story windows, so choose deliberately rather than skipping dialogue.",
+      "id": 48,
+      "kind": "odd",
+      "missable": true,
+      "name": "Actions Speak Louder",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides — provisional missable"
+      ],
+      "stage": 8,
+      "steps": [
+        "Make choices in story dialogue and side strands",
+        "Pick the alternative option when offered",
+        "The count is shown in the stats menu",
+        "The trophy pops at 500"
+      ]
+    },
+    {
+      "count": null,
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "Second time's the charm. This one is triggered by a specific story moment — a second attempt at something that went wrong the first time. The description is cryptic, so the exact scene is per community guides. Provisional missable: it may only be possible in one story window, so do not skip the story scene that leads into it.",
+      "id": 49,
+      "kind": "odd",
+      "missable": true,
+      "name": "Bad Luck, I Guess",
+      "sources": [
+        "PlayStation official trophy description",
+        "Community guides — provisional missable"
+      ],
+      "stage": 8,
+      "steps": [
+        "Play the story — the trigger is a specific scene",
+        "Do not skip the scene that leads into it",
+        "Complete the second attempt — the trophy pops"
+      ]
+    },
+    {
+      "count": null,
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "Find the truth about the aliens. There is an alien and UFO side thread in Leonida — follow its clues (the related collectibles and encounters) to the end. The description is cryptic, so the exact trigger is per community guides; the collection menu shows the related items.",
+      "id": 50,
+      "kind": "odd",
+      "missable": false,
+      "name": "The Truth Is Out There",
+      "sources": [
+        "PlayStation official trophy description",
+        "PSNProfiles trophy listing"
+      ],
+      "stage": 8,
+      "steps": [
+        "Follow the alien/UFO side thread",
+        "Collect the related clues",
+        "Reach the end of the thread — the trophy pops"
+      ]
+    },
+    {
+      "count": 10,
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Bowl 'em over with a melee drive-by. From a moving vehicle, lean out and strike enemies with a melee weapon — each kill counts. Do it during gang operations or police chases where enemies are close to the road. Ten kills total, and they add up across sessions.",
+      "id": 51,
+      "kind": "activities",
+      "missable": false,
+      "name": "Ten Pin",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 5,
+      "steps": [
+        "Get a vehicle and a melee weapon",
+        "Drive past enemies and strike from the vehicle",
+        "Each melee drive-by kill counts",
+        "The trophy pops at 10"
+      ]
+    },
+    {
+      "count": 250000,
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills are the dirty cash from heists — wash them through your contacts (the laundering menu shows the rate and the total). Run heists and robberies, then wash the Marked Bills until the total reaches $250,000.",
+      "id": 52,
+      "kind": "economy",
+      "missable": false,
+      "name": "Dime on the Dollar",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game business menu"
+      ],
+      "stage": 7,
+      "steps": [
+        "Earn cash from heists and robberies",
+        "Launder Marked Bills through your contacts",
+        "Check the laundered total in the menu",
+        "The trophy pops at $250,000"
+      ]
+    },
+    {
+      "count": 100000,
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops. Any spending counts — vehicles, weapons, properties, clothes, upgrades, across every shop. The spent total is shown in the stats menu. Buy the big items and the total climbs fast.",
+      "id": 53,
+      "kind": "economy",
+      "missable": false,
+      "name": "Treat Yo Self",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game stats menu"
+      ],
+      "stage": 7,
+      "steps": [
+        "Buy vehicles, weapons, properties or upgrades",
+        "Check the spent total in the stats menu",
+        "The trophy pops at $100,000"
+      ]
+    },
+    {
+      "count": 8,
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all garage properties. Garages are bought from the property menu or the in-game real-estate site — each one costs money, so save up. The property menu shows which garages you own. Buy all eight and the trophy pops.",
+      "id": 54,
+      "kind": "economy",
+      "missable": false,
+      "name": "Little Boxes",
+      "sources": [
+        "PlayStation official trophy description",
+        "In-game property menu"
+      ],
+      "stage": 6,
+      "steps": [
+        "Open the property menu",
+        "Buy a garage",
+        "Repeat for all 8 garages",
+        "The trophy pops on the eighth"
+      ]
+    },
+    {
+      "count": 10,
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app. Open the Scooter Bros app, register a vehicle you own or have found, and repeat until ten are registered. The app shows which vehicles are registered.",
+      "id": 55,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "On the Spot",
+      "sources": [
+        "PlayStation official trophy description"
+      ],
+      "stage": 6,
+      "steps": [
+        "Open the Scooter Bros app",
+        "Register a vehicle",
+        "Repeat for 10 vehicles — the trophy pops"
+      ]
+    }
+  ]
+};
